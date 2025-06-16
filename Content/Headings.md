@@ -38,3 +38,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur m
 ##### h5 Heading
 ###### h6 Heading
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur malesuada dolor et feugiat. Maecenas at risus ut ipsum rutrum maximus a id arcu.
+
+- - -
+Headings with links
+# [[Markdown|Heading 1 – note exists]]
+# [[NoSuchFile|Heading 1 – note doesn't exist]]
+# [[https://obsidian.md|Heading 1 – external]]
+## [[Markdown|Heading 2 – note exists]]
+## [[NoSuchFile|Heading 2 – note doesn't exist]]
+## [[https://obsidian.md|Heading 2 – external]]
+### [[Markdown|Heading 3 – note exists]]
+### [[NoSuchFile|Heading 3 – note doesn't exist]]
+### [[https://obsidian.md|Heading 3 – external]]
+#### [[Markdown|Heading 4 – note exists]]
+#### [[NoSuchFile|Heading 4 – note doesn't exist]]
+#### [[https://obsidian.md|Heading 4 – external]]
+##### [[Markdown|Heading 5 – note exists]]
+##### [[NoSuchFile|Heading 5 – note doesn't exist]]
+##### [[https://obsidian.md|Heading 5 – external]]
+###### [[Markdown|Heading 6 – note exists]]
+###### [[NoSuchFile|Heading 6 – note doesn't exist]]
+###### [[https://obsidian.md|Heading 6 – external]]
+
