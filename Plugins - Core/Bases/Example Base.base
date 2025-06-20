@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.contains("Content")
+    order:
+      - file.name
+      - aliases
+      - cssclasses
+      - file.ctime
+      - custom checkbox
+      - file.folder
+      - custom date
+      - custom text
